@@ -1,1 +1,1 @@
-export Hooks from './Model';
+export Model from './Model';
