@@ -1,6 +1,6 @@
 {
   "name": "nucleun-model",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generic Model",
   "main": "index.js",
   "scripts": {
@@ -14,9 +14,9 @@
   "author": "João Pinto Neto <joaopintoneto@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "nucleun-hooks": "0.0.4",
-    "nucleun-module": "0.0.1",
-    "nucleun-validator": "0.0.3"
+    "nucleun-hooks": "~0.0.4",
+    "nucleun-module": "~0.0.1",
+    "nucleun-validator": "~0.0.3"
   },
   "devDependencies": {
     "babel-core": "6.17.0",
